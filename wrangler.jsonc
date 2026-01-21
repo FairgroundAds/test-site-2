@@ -1,5 +1,5 @@
 {
-  "name": "cf-pages-test",
+  "name": "test-site",
   "compatibility_date": "2026-01-21",
   "assets": {
     "directory": "./dist"
